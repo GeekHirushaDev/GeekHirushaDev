@@ -36,6 +36,8 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Java, Python, PHP and Firebase.**
 
+- 🧑‍🎓 I'm an Undergraduate at **Java Institute for Advanced Technology**
+  
 - 📫 How to reach me **geekhirusha@gmail.com**
 
 - 💫 **I am a beginner developer. 🌆**
